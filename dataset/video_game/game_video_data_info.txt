@@ -1,0 +1,9 @@
+raw_data1 info : 1035575 42458 1585257
+raw_data2 info : 780447 17971 1223805
+common user num 2179
+total user num 42303
+after filter_data1 info : 25025 12319 157721 0.000512
+after filter_data2 info : 19457 8751 158984 0.000934
+after common_data1 info : 2179 7620 23780 0.001432
+after common_data2 info : 2179 6917 28446 0.001887
+write data finished!
